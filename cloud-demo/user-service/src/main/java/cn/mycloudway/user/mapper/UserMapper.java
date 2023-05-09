@@ -1,6 +1,6 @@
-package cn.itcast.user.mapper;
+package cn.mycloudway.user.mapper;
 
-import cn.itcast.user.pojo.User;
+import cn.mycloudway.user.pojo.User;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;
 

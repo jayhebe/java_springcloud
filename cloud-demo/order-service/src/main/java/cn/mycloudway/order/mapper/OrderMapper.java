@@ -1,6 +1,6 @@
-package cn.itcast.order.mapper;
+package cn.mycloudway.order.mapper;
 
-import cn.itcast.order.pojo.Order;
+import cn.mycloudway.order.pojo.Order;
 import org.apache.ibatis.annotations.Select;
 
 public interface OrderMapper {

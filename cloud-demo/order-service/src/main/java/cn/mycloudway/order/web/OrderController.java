@@ -1,7 +1,7 @@
-package cn.itcast.order.web;
+package cn.mycloudway.order.web;
 
-import cn.itcast.order.pojo.Order;
-import cn.itcast.order.service.OrderService;
+import cn.mycloudway.order.pojo.Order;
+import cn.mycloudway.order.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

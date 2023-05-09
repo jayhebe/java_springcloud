@@ -1,4 +1,4 @@
-package cn.itcast.user.pojo;
+package cn.mycloudway.user.pojo;
 
 import lombok.Data;
 

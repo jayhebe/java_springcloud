@@ -1,7 +1,7 @@
-package cn.itcast.user.service;
+package cn.mycloudway.user.service;
 
-import cn.itcast.user.mapper.UserMapper;
-import cn.itcast.user.pojo.User;
+import cn.mycloudway.user.mapper.UserMapper;
+import cn.mycloudway.user.pojo.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package cn.itcast.order.pojo;
+package cn.mycloudway.order.pojo;
 
 import lombok.Data;
 

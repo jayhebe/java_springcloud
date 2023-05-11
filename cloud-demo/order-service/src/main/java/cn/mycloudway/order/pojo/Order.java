@@ -1,5 +1,6 @@
 package cn.mycloudway.order.pojo;
 
+import cn.mycloudway.feign.pojo.User;
 import lombok.Data;
 
 @Data

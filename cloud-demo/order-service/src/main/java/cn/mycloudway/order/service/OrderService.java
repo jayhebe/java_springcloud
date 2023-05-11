@@ -1,9 +1,9 @@
 package cn.mycloudway.order.service;
 
-import cn.mycloudway.order.clients.UserClient;
+import cn.mycloudway.feign.clients.UserClient;
+import cn.mycloudway.feign.pojo.User;
 import cn.mycloudway.order.mapper.OrderMapper;
 import cn.mycloudway.order.pojo.Order;
-import cn.mycloudway.order.pojo.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

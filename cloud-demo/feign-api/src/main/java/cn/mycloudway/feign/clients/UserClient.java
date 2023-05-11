@@ -1,6 +1,6 @@
-package cn.mycloudway.order.clients;
+package cn.mycloudway.feign.clients;
 
-import cn.mycloudway.order.pojo.User;
+import cn.mycloudway.feign.pojo.User;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

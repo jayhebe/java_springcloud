@@ -1,4 +1,4 @@
-package cn.mycloudway.order.pojo;
+package cn.mycloudway.feign.pojo;
 
 import lombok.Data;
 

@@ -17,4 +17,12 @@ public class SpringAMQPProducerTest {
 
         rabbitTemplate.convertAndSend(queueName, message);
     }
+
+    @Test
+    public void testSendFanoutExchagne() {
+        String exchangeName = "mycloudway.fanout";
+        String message = "hello, everyone";
+
+        rabbitTemplate.convertAndSend(exchangeName, "", message);
+    }
 }
